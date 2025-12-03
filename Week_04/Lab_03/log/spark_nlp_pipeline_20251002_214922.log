@@ -1,9 +1,0 @@
-2025-10-02 21:49:22,226 - __main__ - INFO - Starting Spark NLP Pipeline Execution
-2025-10-02 21:49:27,117 - __main__ - INFO - Spark session created successfully
-2025-10-02 21:49:27,117 - __main__ - INFO - Loading data from: c4-train.00000-of-01024-30K.json.gz
-2025-10-02 21:49:31,348 - __main__ - INFO - Successfully loaded 1000 records
-2025-10-02 21:49:32,479 - __main__ - INFO - NLP pipeline built with all stages
-2025-10-02 21:49:32,479 - __main__ - INFO - Fitting pipeline to data...
-2025-10-02 21:49:36,178 - __main__ - INFO - Transforming data...
-2025-10-02 21:49:36,326 - __main__ - INFO - Sample of transformed data:
-2025-10-02 21:49:36,831 - __main__ - INFO - Saving results to: results/pipeline_output
